@@ -1,4 +1,4 @@
-package Item10HashCodeEquals;
+package Item10_11HashCodeEquals;
 
 import java.awt.*;
 

@@ -1,6 +1,4 @@
-package Item10HashCodeEquals;
-
-import java.util.Objects;
+package Item10_11HashCodeEquals;
 
 public class DenemeSinifOverride {
     private int a, b;

@@ -1,6 +1,5 @@
-package Item10HashCodeEquals;
+package Item10_11HashCodeEquals;
 
-import java.awt.*;
 import java.awt.Color;
 import java.util.Objects;
 

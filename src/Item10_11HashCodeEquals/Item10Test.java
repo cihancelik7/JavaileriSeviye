@@ -1,6 +1,4 @@
-package Item10HashCodeEquals;
-
-import Item4EnforceNoinstaniabilityWithAPrivateConstructor.Dene;
+package Item10_11HashCodeEquals;
 
 import java.util.ArrayList;
 import java.util.HashMap;
