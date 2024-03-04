@@ -1,5 +1,7 @@
 package Item14ConsiderImplementing_Comparable;
 
+import Item15MinimizeTheAccessibilityOfClassesAndMembers.GuvenliKod;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -32,5 +34,8 @@ public class Item14Test {
          fakat birden cok methodla siralama yapacaksak ornegin tarih adres fiyat isim gibi... bu durumlarda comparable methodunu kullanabiliriz
 
          */
+
     }
+
+
 }
